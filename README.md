@@ -6,7 +6,7 @@
 
 ## 👥 Team Members
 
-- Gino Barros (https://github.com/) (Team Lead)
+- Gino Barros (https://github.com/ginobar17) (Team Lead)
 - Christopher Gonsalves (https://github.com/nzvMatrix)
 - Elloy Fernandes (https://github.com/voidecs)
 - Devang Lotliker (https://github.com/OreoMaggi)

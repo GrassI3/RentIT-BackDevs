@@ -1,2 +1,28 @@
-# RentIT-BackDevs
-RentIT is a full stack web app for property rentals, enabling hosts to list and travelers to book stays. Built with React, Node.js, MongoDB and Firebase for seamless UI, secure auth and image storage. RentIT aims to deliver a smooth and scalable rental experience for all users.
+# RentIT
+
+**RentIT** is a full stack web application that streamlines the process of short term property rentals. It allows hosts to list their properties and travelers to search, book and review stays. The platform focuses on providing a smooth, secure and scalable rental experience with a modern tech stack.
+
+---
+
+## 👥 Team Members
+
+- Gino Barros (https://github.com/) (Team Lead)
+- Christopher Gonsalves (https://github.com/nzvMatrix)
+- Elloy Fernandes (https://github.com/voidecs)
+- Devang Lotliker (https://github.com/OreoMaggi)
+- Kiara Fernandes (https://github.com/)
+- Jai Dessai (https://github.com/)
+
+---
+
+## 🚀 Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Authentication:** Firebase Auth  
+- **Cloud Storage:** Firebase Storage or Cloudinary  
+- **Hosting:** Vercel/Netlify (frontend), Render/Railway (backend)
+
+---
+

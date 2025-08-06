@@ -10,8 +10,8 @@
 - Christopher Gonsalves (https://github.com/nzvMatrix)
 - Elloy Fernandes (https://github.com/voidecs)
 - Devang Lotliker (https://github.com/OreoMaggi)
-- Kiara Fernandes (https://github.com/)
-- Jai Dessai (https://github.com/)
+- Kiara Fernandes (https://github.com/kiaraLuan)
+- Jai Dessai (https://github.com/GrassI3)
 
 ---
 

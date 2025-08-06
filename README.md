@@ -1,6 +1,6 @@
 # RentIT
 
-**RentIT** is a full stack web application that streamlines the process of short term property rentals. It allows hosts to list their properties and travelers to search, book and review stays. The platform focuses on providing a smooth, secure and scalable rental experience with a modern tech stack.
+**RentIT** is a full stack web application that streamlines the process of short/long term property rentals. It allows hosts to list their properties and travelers to search, book and review stays. The platform focuses on providing a smooth, secure and scalable rental experience with a modern tech stack.
 
 ---
 

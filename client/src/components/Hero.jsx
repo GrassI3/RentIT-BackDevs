@@ -8,7 +8,7 @@ const Hero = () => {
       <h1 className='font-playfair text-2xl md:text-5xl md:text-[56px] md:leading-[56px] font-bold md:font-extrabold max-w-xl mt-4'>Discover Your Perfect Getaway Dstinations</h1>
       <p className='max-w-130 mt-2 text-sm md:text-base'>Unparalleled comfort and peaceful vibees await at Goa's most exclusive home stays, from appartments to villas. Start your journey today. </p>
       
-      <form className='bg-white text-gray-500 rounded-lg px-6 py-4 mt-8 flex flex-col md:flex-row max-md:items-start gap-4 max-md:mx-auto'>
+      <form className='bg-white text-gray-500 rounded-lg px-6 py-6 mt-8 flex flex-col md:flex-row max-md:items-start gap-4 max-md:mx-auto'>
 
             <div>
                 <div className='flex items-center gap-2'>

@@ -20,7 +20,7 @@
 - **Frontend:** React.js, Tailwind CSS  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Authentication:** Firebase Auth  
+- **Authentication:** Clerk Auth  
 - **Cloud Storage:** Firebase Storage or Cloudinary  
 - **Hosting:** Vercel/Netlify (frontend), Render/Railway (backend)
 

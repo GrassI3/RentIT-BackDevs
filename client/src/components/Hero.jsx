@@ -6,7 +6,7 @@ const Hero = () => {
     <div className='flex flex-col items-start justify-center px-6 md:px-16 lg:px-24 xl:px-32 text-white bg-[url("/src/assets/heroImage.png")] bg-no-repeat bg-cover bg-center h-screen'>
       <p className='bg-[#000000]/50 px-3.5 py-1 rounded-full mt-20'>The Ultimate Staying Experience</p>
       <h1 className='font-playfair text-2xl md:text-5xl md:text-[56px] md:leading-[56px] font-bold md:font-extrabold max-w-xl mt-4'>Discover Your Perfect Getaway Dstinations</h1>
-      <p className='max-w-130 mt-2 text-sm md:text-base'>Unparalleled comfort and peaceful vibees await at Goa's most exclusive home stays, from appartments to villas. Start your journey today. </p>
+      <p className='max-w-130 mt-2 text-sm md:text-base'>Unparalleled comfort and peaceful vibes await at Goa's most exclusive home stays, from appartments to villas. Start your journey today. </p>
       
       <form className='bg-white text-gray-500 rounded-lg px-6 py-6 mt-8 flex flex-col md:flex-row max-md:items-start gap-4 max-md:mx-auto'>
 
